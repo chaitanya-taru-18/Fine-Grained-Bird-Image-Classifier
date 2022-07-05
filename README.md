@@ -15,7 +15,7 @@ python3, Jupyter Notebook/Google COLAB
 ## Required Packages:
 cv2, keras, sklearn, tensorflow, matplotlib, sys, pandas, os, numpy
 
-## Preprocessing and implementation execution:
+## Bird image classifier execution:
 1. Install all the required packages.
 2. Use Jupyter Notebook (Preferably Google COLAB) with GPU runtime.
-3. Execute all the cells one by one.
+3. Execute all the cells one by one in 'bird_image_classifier.ipynb'.
