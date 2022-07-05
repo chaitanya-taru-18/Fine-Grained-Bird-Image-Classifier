@@ -1,6 +1,6 @@
 # Fine-Grained-Bird-Image-Classifier
 
-### This file fetched the dataset from the URL. 
+### This file fetches the dataset from the URL. 
 
 ## Dataset: 
 Caltech-UCSD Birds-200-2011: 200 categories of birds
